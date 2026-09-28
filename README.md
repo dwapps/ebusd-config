@@ -15,8 +15,10 @@ In the Home Assistant ebusd add-on, set these as separate additional ebusd optio
 ```text
 --configpath=https://dwapps.github.io/ebusd-config/de/
 --scanconfig
---latency=100000
+--latency=100
 ```
+
+In ebusd 26.1, `--latency` is specified in milliseconds. The older value `100000` (microseconds) is still accepted and has the same effect as `100` (100 ms).
 
 The VR32 device is scanned as `V32` at slave address `38`. The filename `38.v32.recov.csv` matches that scan result while retaining `recov` as the circuit name. The added CSV is an address mapping of the official recoVAIR configuration, not a guarantee that every register is available through the VR32. Verify the loaded file with `ebusctl info` after restarting ebusd.
 
