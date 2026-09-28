@@ -26,9 +26,22 @@ jobs:
           persist-credentials: false
       - name: Mirror CSV files and add recoVAIR for VR32
         run: python3 scripts/sync.py
-      - name: Commit updated CSV files
+      - name: Commit updates and keep the schedule active
+        id: changes
         run: |
           git add site
+          if git diff --cached --quiet -- site; then
+            echo "site_changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "site_changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+          current_month=$(date -u +%Y-%m)
+          if [[ ! -f .github/last-sync-month || $(cat .github/last-sync-month) != "$current_month" ]]; then
+            printf '%s\n' "$current_month" > .github/last-sync-month
+            git add .github/last-sync-month
+          fi
+
           if ! git diff --cached --quiet; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -36,10 +49,11 @@ jobs:
             git push
           fi
       - name: Upload GitHub Pages files
+        if: steps.changes.outputs.site_changed == 'true'
         uses: actions/upload-pages-artifact@v4
         with:
           path: site
       - name: Publish GitHub Pages
         id: deployment
+        if: steps.changes.outputs.site_changed == 'true'
         uses: actions/deploy-pages@v4
-

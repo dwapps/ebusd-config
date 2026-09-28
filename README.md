@@ -2,6 +2,8 @@
 
 This repository mirrors the compiled CSV files from [eBUS/ebus.github.io](https://github.com/eBUS/ebus.github.io). A GitHub Actions workflow refreshes them daily and on demand. After every refresh, it copies `de/vaillant/08.recov.csv` to `de/vaillant/38.v32.recov.csv` and does the same for `en`. It also adds the new filename to each `vaillant/index.json`, which ebusd needs when reading configurations over HTTP.
 
+The copy is refreshed on every run. The workflow commits and republishes GitHub Pages only when the published files change. It updates `.github/last-sync-month` once a month to keep scheduled workflows active in this public repository even if upstream has no changes.
+
 The published German configuration path for ebusd is:
 
 ```text
