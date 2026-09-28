@@ -2,7 +2,8 @@ name: Sync eBUS configurations
 
 on:
   schedule:
-    - cron: "17 3 * * *"
+    - cron: "0 2,8,14,20 * * *"
+      timezone: "Europe/Berlin"
   workflow_dispatch:
 
 jobs:
