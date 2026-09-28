@@ -1,0 +1,592 @@
+{
+  "broadcast.csv": {
+    "hash": "b3d3642f",
+    "size": 1321,
+    "mtime": 1769941380
+  },
+  "encon/0a..co2.csv": {
+    "hash": "63504892",
+    "size": 306,
+    "mtime": 1738102706
+  },
+  "encon/3c..excellent.csv": {
+    "hash": "36439d4b",
+    "size": 19203,
+    "mtime": 1759082071
+  },
+  "encon/7c..excellent.csv": {
+    "hash": "36439d4b",
+    "size": 19203,
+    "mtime": 1759082071
+  },
+  "encon/broadcast.csv": {
+    "hash": "3b7454bf",
+    "size": 1148,
+    "mtime": 1769941421
+  },
+  "memory.csv": {
+    "hash": "3c2c3e01",
+    "size": 518,
+    "mtime": 1738102706
+  },
+  "ochsner/15.22102.csv": {
+    "hash": "8aba01fa",
+    "size": 7037,
+    "mtime": 1738102706
+  },
+  "ochsner/broadcast.csv": {
+    "hash": "3b7454bf",
+    "size": 1148,
+    "mtime": 1769941421
+  },
+  "tem/broadcast.csv": {
+    "hash": "3b7454bf",
+    "size": 1148,
+    "mtime": 1769941421
+  },
+  "vaillant/05.vd2.csv": {
+    "hash": "8afff820",
+    "size": 12828,
+    "mtime": 1747589551
+  },
+  "vaillant/05.vd3.csv": {
+    "hash": "8afff820",
+    "size": 12828,
+    "mtime": 1747589551
+  },
+  "vaillant/05.vd4.csv": {
+    "hash": "8afff820",
+    "size": 12828,
+    "mtime": 1747589551
+  },
+  "vaillant/05.vd6.csv": {
+    "hash": "8afff820",
+    "size": 12828,
+    "mtime": 1747589551
+  },
+  "vaillant/05.vl8.csv": {
+    "hash": "8afff820",
+    "size": 12828,
+    "mtime": 1747589551
+  },
+  "vaillant/05.vl9.csv": {
+    "hash": "8afff820",
+    "size": 12828,
+    "mtime": 1747589551
+  },
+  "vaillant/06.pms.csv": {
+    "hash": "f9b11e64",
+    "size": 7411,
+    "mtime": 1747589551
+  },
+  "vaillant/06.vmd.csv": {
+    "hash": "39f63f31",
+    "size": 1122,
+    "mtime": 1738102706
+  },
+  "vaillant/06.vms.csv": {
+    "hash": "69e6b608",
+    "size": 5727,
+    "mtime": 1747589551
+  },
+  "vaillant/08.bai.csv": {
+    "hash": "415b2741",
+    "size": 8481,
+    "mtime": 1776608219
+  },
+  "vaillant/08.ehp.csv": {
+    "hash": "fd9c8cbd",
+    "size": 47645,
+    "mtime": 1776608219
+  },
+  "vaillant/08.hmu.HW5103.csv": {
+    "hash": "46e9f986",
+    "size": 8106,
+    "mtime": 1769941421
+  },
+  "vaillant/08.hmu.csv": {
+    "hash": "56618165",
+    "size": 24093,
+    "mtime": 1776608219
+  },
+  "vaillant/08.recov.csv": {
+    "hash": "98fea080",
+    "size": 6780,
+    "mtime": 1769941380
+  },
+  "vaillant/08.v3x.csv": {
+    "hash": "3dd2edca",
+    "size": 1389,
+    "mtime": 1738102706
+  },
+  "vaillant/0a.pmw.hwc.csv": {
+    "hash": "2b233a18",
+    "size": 11606,
+    "mtime": 1776608219
+  },
+  "vaillant/15.140.csv": {
+    "hash": "b8d6e176",
+    "size": 17975,
+    "mtime": 1776608219
+  },
+  "vaillant/15.160.csv": {
+    "hash": "190f26c9",
+    "size": 7188,
+    "mtime": 1769941380
+  },
+  "vaillant/15.350.HW7102.csv": {
+    "hash": "bb751651",
+    "size": 22956,
+    "mtime": 1776608219
+  },
+  "vaillant/15.350.HW7202.csv": {
+    "hash": "bb751651",
+    "size": 22956,
+    "mtime": 1776608219
+  },
+  "vaillant/15.350.csv": {
+    "hash": "b8d6e176",
+    "size": 17975,
+    "mtime": 1776608219
+  },
+  "vaillant/15.360.csv": {
+    "hash": "b8d6e176",
+    "size": 17975,
+    "mtime": 1776608219
+  },
+  "vaillant/15.36p.csv": {
+    "hash": "b8d6e176",
+    "size": 17975,
+    "mtime": 1776608219
+  },
+  "vaillant/15.370.csv": {
+    "hash": "bb751651",
+    "size": 22956,
+    "mtime": 1776608219
+  },
+  "vaillant/15.392.csv": {
+    "hash": "604d0180",
+    "size": 23422,
+    "mtime": 1776608219
+  },
+  "vaillant/15.400.csv": {
+    "hash": "b8d6e176",
+    "size": 17975,
+    "mtime": 1776608219
+  },
+  "vaillant/15.430.csv": {
+    "hash": "91cb8254",
+    "size": 33746,
+    "mtime": 1776608219
+  },
+  "vaillant/15.450.csv": {
+    "hash": "7eb8634e",
+    "size": 41243,
+    "mtime": 1776608219
+  },
+  "vaillant/15.470.csv": {
+    "hash": "7eb8634e",
+    "size": 41243,
+    "mtime": 1776608219
+  },
+  "vaillant/15.700.csv": {
+    "hash": "1babd724",
+    "size": 66457,
+    "mtime": 1776608219
+  },
+  "vaillant/15.720.csv": {
+    "hash": "81423339",
+    "size": 105450,
+    "mtime": 1776608219
+  },
+  "vaillant/15.b7v.csv": {
+    "hash": "1babd724",
+    "size": 66457,
+    "mtime": 1776608219
+  },
+  "vaillant/15.bass.csv": {
+    "hash": "81423339",
+    "size": 105450,
+    "mtime": 1776608219
+  },
+  "vaillant/15.basv.csv": {
+    "hash": "81423339",
+    "size": 105450,
+    "mtime": 1776608219
+  },
+  "vaillant/15.basv2.csv": {
+    "hash": "81423339",
+    "size": 105450,
+    "mtime": 1776608219
+  },
+  "vaillant/15.basv3.csv": {
+    "hash": "81423339",
+    "size": 105450,
+    "mtime": 1776608219
+  },
+  "vaillant/15.ctls2.csv": {
+    "hash": "81423339",
+    "size": 105450,
+    "mtime": 1776608219
+  },
+  "vaillant/15.ctlv2.csv": {
+    "hash": "81423339",
+    "size": 105450,
+    "mtime": 1776608219
+  },
+  "vaillant/15.ctlv3.csv": {
+    "hash": "81423339",
+    "size": 105450,
+    "mtime": 1776608219
+  },
+  "vaillant/15.e7c.csv": {
+    "hash": "66b36851",
+    "size": 26843,
+    "mtime": 1738102706
+  },
+  "vaillant/15.e7f.csv": {
+    "hash": "f4c92a81",
+    "size": 8921,
+    "mtime": 1776608219
+  },
+  "vaillant/15.e7f_2.csv": {
+    "hash": "66b36851",
+    "size": 26843,
+    "mtime": 1738102706
+  },
+  "vaillant/15.f35.csv": {
+    "hash": "b8d6e176",
+    "size": 17975,
+    "mtime": 1776608219
+  },
+  "vaillant/15.f37.csv": {
+    "hash": "c314d4fb",
+    "size": 23088,
+    "mtime": 1776608219
+  },
+  "vaillant/15.f43.csv": {
+    "hash": "7eacebc9",
+    "size": 33156,
+    "mtime": 1776608219
+  },
+  "vaillant/15.f45.csv": {
+    "hash": "62b05e73",
+    "size": 35504,
+    "mtime": 1776608219
+  },
+  "vaillant/15.f47.csv": {
+    "hash": "62b05e73",
+    "size": 35504,
+    "mtime": 1776608219
+  },
+  "vaillant/15.heb.csv": {
+    "hash": "b8851ee",
+    "size": 7719,
+    "mtime": 1776608219
+  },
+  "vaillant/15.hep.csv": {
+    "hash": "b8851ee",
+    "size": 7719,
+    "mtime": 1776608219
+  },
+  "vaillant/15.sdr_p.csv": {
+    "hash": "b8851ee",
+    "size": 7719,
+    "mtime": 1776608219
+  },
+  "vaillant/15.ui.csv": {
+    "hash": "69b22e77",
+    "size": 19803,
+    "mtime": 1776608219
+  },
+  "vaillant/15.uih.csv": {
+    "hash": "7bdc348d",
+    "size": 12601,
+    "mtime": 1776608219
+  },
+  "vaillant/15.vai.csv": {
+    "hash": "c4c15e0e",
+    "size": 2705,
+    "mtime": 1776608307
+  },
+  "vaillant/1c.rcc.4.csv": {
+    "hash": "632a74d5",
+    "size": 1624,
+    "mtime": 1776608219
+  },
+  "vaillant/1c.v81.4.csv": {
+    "hash": "68a4635a",
+    "size": 2910,
+    "mtime": 1776608219
+  },
+  "vaillant/23.ehp.cc.csv": {
+    "hash": "4719cf78",
+    "size": 5392,
+    "mtime": 1769941380
+  },
+  "vaillant/23.solsy.cc.csv": {
+    "hash": "69c05dc7",
+    "size": 5704,
+    "mtime": 1769941380
+  },
+  "vaillant/23.vr630.cc.csv": {
+    "hash": "2ff8fd31",
+    "size": 5707,
+    "mtime": 1769941380
+  },
+  "vaillant/23.zeo.cc.csv": {
+    "hash": "6ad59a0c",
+    "size": 5302,
+    "mtime": 1776608219
+  },
+  "vaillant/25.ehp.hwc.csv": {
+    "hash": "805d3fae",
+    "size": 8440,
+    "mtime": 1769941380
+  },
+  "vaillant/25.solsy.hwc.csv": {
+    "hash": "f063d53b",
+    "size": 9326,
+    "mtime": 1769941380
+  },
+  "vaillant/25.vr630.hwc.csv": {
+    "hash": "7970137d",
+    "size": 7728,
+    "mtime": 1776608219
+  },
+  "vaillant/25.zeo.hwc.csv": {
+    "hash": "38f280b1",
+    "size": 5315,
+    "mtime": 1776608219
+  },
+  "vaillant/26.solsy.hc.csv": {
+    "hash": "72fde1dd",
+    "size": 11460,
+    "mtime": 1776608219
+  },
+  "vaillant/26.vr630.hc.csv": {
+    "hash": "54d9bb9f",
+    "size": 8738,
+    "mtime": 1776608219
+  },
+  "vaillant/26.vr_71.csv": {
+    "hash": "d4187d96",
+    "size": 3103,
+    "mtime": 1776608219
+  },
+  "vaillant/35.rcc.1.csv": {
+    "hash": "632a74d5",
+    "size": 1624,
+    "mtime": 1776608219
+  },
+  "vaillant/35.v81.1.csv": {
+    "hash": "68a4635a",
+    "size": 2910,
+    "mtime": 1776608219
+  },
+  "vaillant/3c.rcc.5.csv": {
+    "hash": "632a74d5",
+    "size": 1624,
+    "mtime": 1776608219
+  },
+  "vaillant/3c.v81.5.csv": {
+    "hash": "68a4635a",
+    "size": 2910,
+    "mtime": 1776608219
+  },
+  "vaillant/50.ehp.mc.csv": {
+    "hash": "47d04eca",
+    "size": 16580,
+    "mtime": 1776608219
+  },
+  "vaillant/50.solsy.mc.csv": {
+    "hash": "91000685",
+    "size": 11989,
+    "mtime": 1776608219
+  },
+  "vaillant/50.v61.mc.csv": {
+    "hash": "abe94909",
+    "size": 15866,
+    "mtime": 1776608219
+  },
+  "vaillant/50.vr630.mc.csv": {
+    "hash": "903515e0",
+    "size": 9864,
+    "mtime": 1776608219
+  },
+  "vaillant/50.zeo.mc.csv": {
+    "hash": "63b7d0",
+    "size": 7551,
+    "mtime": 1776608219
+  },
+  "vaillant/51.vr630.mc.3.csv": {
+    "hash": "b4a76926",
+    "size": 9963,
+    "mtime": 1776608219
+  },
+  "vaillant/52.mc2.mc.4.csv": {
+    "hash": "5909967",
+    "size": 16650,
+    "mtime": 1776608219
+  },
+  "vaillant/52.vr_70.csv": {
+    "hash": "2e7f8cf4",
+    "size": 1151,
+    "mtime": 1747589551
+  },
+  "vaillant/53.mc2.mc.5.csv": {
+    "hash": "6b17a9fd",
+    "size": 16004,
+    "mtime": 1776608219
+  },
+  "vaillant/53.vr_70.5.csv": {
+    "hash": "2e7f8cf4",
+    "size": 1151,
+    "mtime": 1747589551
+  },
+  "vaillant/54.mc2.mc.6.csv": {
+    "hash": "5909967",
+    "size": 16650,
+    "mtime": 1776608219
+  },
+  "vaillant/55.mc2.mc.7.csv": {
+    "hash": "6b17a9fd",
+    "size": 16004,
+    "mtime": 1776608219
+  },
+  "vaillant/64.v65.csv": {
+    "hash": "284f313c",
+    "size": 302,
+    "mtime": 1738102706
+  },
+  "vaillant/75.rcc.csv": {
+    "hash": "632a74d5",
+    "size": 1624,
+    "mtime": 1776608219
+  },
+  "vaillant/75.v81.csv": {
+    "hash": "68a4635a",
+    "size": 2910,
+    "mtime": 1776608219
+  },
+  "vaillant/76.vwz.csv": {
+    "hash": "4341d0bd",
+    "size": 2152,
+    "mtime": 1776608219
+  },
+  "vaillant/76.vwzio.csv": {
+    "hash": "4341d0bd",
+    "size": 2152,
+    "mtime": 1776608219
+  },
+  "vaillant/7c.rcc.6.csv": {
+    "hash": "632a74d5",
+    "size": 1624,
+    "mtime": 1776608219
+  },
+  "vaillant/7c.v81.6.csv": {
+    "hash": "68a4635a",
+    "size": 2910,
+    "mtime": 1776608219
+  },
+  "vaillant/84.zeo.csv": {
+    "hash": "50d60027",
+    "size": 23413,
+    "mtime": 1776608219
+  },
+  "vaillant/a0.sol.hwc.csv": {
+    "hash": "2e34786e",
+    "size": 9871,
+    "mtime": 1776608219
+  },
+  "vaillant/a1.sol.cc.csv": {
+    "hash": "1dec74d",
+    "size": 6074,
+    "mtime": 1769941380
+  },
+  "vaillant/broadcast.csv": {
+    "hash": "b9edad63",
+    "size": 537,
+    "mtime": 1738102706
+  },
+  "vaillant/c0.wtw.csv": {
+    "hash": "77c582c9",
+    "size": 3251,
+    "mtime": 1776608307
+  },
+  "vaillant/e0.omu.csv": {
+    "hash": "fc3fab4d",
+    "size": 17620,
+    "mtime": 1776608219
+  },
+  "vaillant/e1.omu.1.csv": {
+    "hash": "fc3fab4d",
+    "size": 17620,
+    "mtime": 1776608219
+  },
+  "vaillant/ec.sol.sc.csv": {
+    "hash": "15fbb886",
+    "size": 9939,
+    "mtime": 1738102706
+  },
+  "vaillant/ec.solsy.sc.csv": {
+    "hash": "dd8a537a",
+    "size": 9804,
+    "mtime": 1776608219
+  },
+  "vaillant/ec.zeo.sc.csv": {
+    "hash": "ca0b6f4f",
+    "size": 2084,
+    "mtime": 1776608219
+  },
+  "vaillant/ed.pms.sc.csv": {
+    "hash": "f9b11e64",
+    "size": 7411,
+    "mtime": 1747589551
+  },
+  "vaillant/f5.rcc.3.csv": {
+    "hash": "632a74d5",
+    "size": 1624,
+    "mtime": 1776608219
+  },
+  "vaillant/f5.v81.3.csv": {
+    "hash": "68a4635a",
+    "size": 2910,
+    "mtime": 1776608219
+  },
+  "vaillant/fc.rcc.7.csv": {
+    "hash": "632a74d5",
+    "size": 1624,
+    "mtime": 1776608219
+  },
+  "vaillant/fc.v81.7.csv": {
+    "hash": "68a4635a",
+    "size": 2910,
+    "mtime": 1776608219
+  },
+  "vaillant/general.csv": {
+    "hash": "4d40fdfe",
+    "size": 288,
+    "mtime": 1738102706
+  },
+  "vaillant/scan.csv": {
+    "hash": "d4d63b17",
+    "size": 264,
+    "mtime": 1738102706
+  },
+  "wolf/08..hc.csv": {
+    "hash": "f533d52b",
+    "size": 4358,
+    "mtime": 1759082071
+  },
+  "wolf/50..mc.csv": {
+    "hash": "a759c034",
+    "size": 613,
+    "mtime": 1738102706
+  },
+  "wolf/broadcast.csv": {
+    "hash": "83426d82",
+    "size": 1308,
+    "mtime": 1769941422
+  }
+}
